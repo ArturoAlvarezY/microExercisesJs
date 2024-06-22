@@ -44,5 +44,5 @@ secondButton.addEventListener("click", ()=>{
     let saveFirst= getFirstInputValue();
     let saveSecond= getSecondInputValue();
 
-     return answer.innerHTML= `${saveFirst+saveSecond}`
+     return answer.innerHTML= `the adition between ${saveFirst} and ${saveSecond} is: ${saveFirst+saveSecond}`
 })
