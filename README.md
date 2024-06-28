@@ -1,2 +1,2 @@
-# microExercisesWithTest
-My javascript Micro exercises with tests!
+# microExercises
+You will find each micro exercise in each folder
